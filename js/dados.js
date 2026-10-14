@@ -88,92 +88,23 @@ var MENU = {
     "burgers": [
         {
             "id": "15259-german-chocolate-killer-brownie-tin-pack",
-            "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08f.jpg",
+            "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08f1.png",
             "name": "NUTELA®",
             "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDENSADO E NUTELA®",
-            "price": 20.00
+            "price": 18.00
         },
-        {
-            "id": "jacques-world-famous-chocolate-chip-cookies",
-            "img": "./img/cardapio/AÇAI/brooklyn-blackout-cookie-brownie-combo-pack-2-tins.d8805325baf6b23b4f01d119dc4531a7.jpg",
-            "name": "MORANGO",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA E MORANGO",
-            "price": 20.00
-        },
-        {
-            "id": "luigis-original-cannoli-pie",
-            "img": "./img/cardapio/AÇAI/choose-your-own-ice-cream-donuts-6-pack.24d0b44765a7c54237fcd7ea9d9d8093.jpg",
-            "name": "BANANA",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA E BANANA",
-            "price": 20.00
-        },
-        {
-            "id": "sea-salted-caramel-swirl-cheesecake",
-            "img": "./img/cardapio/AÇAI/sea-salted-caramel-swirl-cheesecake.e2825335433fb7a272a5d77649a6849e.jpg",
-            "name": "ABACAXI",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA E ABACAXI",
-            "price": 20.00
-        },
-        {
-            "id": "brooklyn-blackout-cookie-brownie-combo-pack-2-tins",
-            "img": "./img/cardapio/AÇAI/brooklyn-blackout-cookie-brownie-combo-pack-2-tins.d8805325baf6b23b4f01d119dc4531a78.jpg",
-            "name": "MAÇA",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA E MAÇA",
-            "price": 20.00
-        },
-        {
-            "id": "best-seller-cupcake-dozen",
-            "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08ff.jpg",
-            "name": "MIX COMPLETO",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA, MAÇA, MORANGO E BANANA",
-            "price": 23.00
-        },
-   
+       
     ],
     "sobremesas": [
 
         {
             "id": "15259-german-chocolate-killer-brownie-tin-pack",
-            "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08f.jpg",
+            "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08f1.png",
             "name": "NUTELA®",
             "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDENSADO E NUTELA®",
-            "price": 23.00
+            "price": 12.00
         },
-        {
-            "id": "jacques-world-famous-chocolate-chip-cookies",
-            "img": "./img/cardapio/AÇAI/brooklyn-blackout-cookie-brownie-combo-pack-2-tins.d8805325baf6b23b4f01d119dc4531a7.jpg",
-            "name": "MORANGO",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA E MORANGO",
-            "price": 23.00
-        },
-        {
-            "id": "luigis-original-cannoli-pie",
-            "img": "./img/cardapio/AÇAI/choose-your-own-ice-cream-donuts-6-pack.24d0b44765a7c54237fcd7ea9d9d8093.jpg",
-            "name": "BANANA",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA E BANANA",
-            "price": 22.00
-        },
-        {
-            "id": "sea-salted-caramel-swirl-cheesecake",
-            "img": "./img/cardapio/AÇAI/sea-salted-caramel-swirl-cheesecake.e2825335433fb7a272a5d77649a6849e.jpg",
-            "name": "ABACAXI",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA E ABACAXI",
-            "price": 22.00
-        },
-        {
-            "id": "brooklyn-blackout-cookie-brownie-combo-pack-2-tins",
-            "img": "./img/cardapio/AÇAI/brooklyn-blackout-cookie-brownie-combo-pack-2-tins.d8805325baf6b23b4f01d119dc4531a78.jpg",
-            "name": "MAÇA",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA E MAÇA",
-            "price": 22.00
-        },
-        {
-            "id": "best-seller-cupcake-dozen",
-            "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08ff.jpg",
-            "name": "MIX COMPLETO",
-            "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA, MAÇA, MORANGO E BANANA",
-            "price": 25.00
-        },
+
    
    
        
