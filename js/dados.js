@@ -89,7 +89,7 @@ var MENU = {
         {
             "id": "15259-german-chocolate-killer-brownie-tin-pack",
             "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08f1.png",
-            "name": "NUTELA®",
+            "name": "AÇAI COMPLETO®",
             "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDENSADO E NUTELA®",
             "price": 18.00
         },
@@ -100,7 +100,7 @@ var MENU = {
         {
             "id": "15259-german-chocolate-killer-brownie-tin-pack",
             "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08f1.png",
-            "name": "NUTELA®",
+            "name": "AÇAI COMPLETO®",
             "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDENSADO E NUTELA®",
             "price": 12.00
         },
